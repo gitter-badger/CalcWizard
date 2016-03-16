@@ -1,0 +1,7 @@
+Version: 2.0
+API Level: 4
+Name: Snow Leopard
+Dependencies: 0
+Main: 1
+Compilation Date: 16-03-2016
+Compilation Time: 20:20:20
