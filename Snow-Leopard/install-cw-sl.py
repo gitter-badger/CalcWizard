@@ -54,7 +54,7 @@ if exit == "y":
   print ("The program will exit in 5 seconds.")
   time.sleep(5)
   exit()
-if exit == "n":
+elif exit == "n":
   print ("Exiting anyway!")
   time.sleep(5)
   exit()
