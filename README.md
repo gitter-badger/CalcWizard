@@ -7,9 +7,7 @@ calculator you have been looking for! It is powerful and open-source.</p>
 <p>To install CalcWizard on your flavour of linux, download the setup script and run it from terminal.
 The setup script will be named something like this: CalcWizard-VersionCodename-Setup.sh.
 
-To run this script, type:
+To run this script, type:</p>
 
-   sudo -i
-    bash CalcWizard-VersionCodename-Setup.sh
-
-</p>
+   <p>sudo -i</p>
+   <p>bash CalcWizard-VersionCodename-Setup.sh</p>
