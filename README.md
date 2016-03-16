@@ -6,4 +6,4 @@ calculator you have been looking for! It is powerful and open-source.</p>
 <h2>Download and install CalcWizard</h2>
 <p>The installation process of CalcWizard is very easy. You download the installer from the downloads page and launch it! 
 he installer will do the rest for you, and, after waiting for about 3 to 5 minutes, the installation should have finished. 
-Download the latest version <a href="https://www.dropbox.com/s/yy8d8mz1yw1szqr/CalcWizard-7.1-Setup.exe?dl=1">here</a>.To download earlier versions, click <a href="cwd.html" >here</a>.</p>
+Download the latest version <a href="https://www.dropbox.com/s/yy8d8mz1yw1szqr/CalcWizard-7.1-Setup.exe?dl=1">here</a>.To download earlier versions, click <a href="http://al3xv3gas.github.io/cwd.html" >here</a>.</p>
