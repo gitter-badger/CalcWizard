@@ -24,19 +24,19 @@ startsh = open("CalcWizard-starter.sh", "w")
 
 startsh = open("CalcWizard-starter.sh", "a")
 
-startsh.write("#!/bin/bash")
+startsh.write("#!/bin/bash\n")
 
-startsh.write("cd " + str(location))
+startsh.write("cd " + str(location) + "\n")
 
-startsh.write("cd CalcWizard/Snow-Leopard/program")
+startsh.write("cd CalcWizard/Snow-Leopard/program\n")
 
-startsh.write("python snowleopard.py")
+startsh.write("python snowleopard.py\n")
 
-startsh.write(str(ktc))
+startsh.write(str(ktc) + "\n")
 
-startsh.write("read")
+startsh.write("rea\n")
 
-startsh.write("exit")
+startsh.write("exit\n")
 
 startsh.close()
 
