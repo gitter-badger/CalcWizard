@@ -7,11 +7,11 @@ calculator you have been looking for! It is powerful and open source.</p>
 <p>The installation process of CalcWizard is very easy. You download the installer from the downloads page and launch it! 
 The installer will do the rest for you, and, after waiting for about 3 to 5 minutes, the installation should have finished. 
 Download the latest version <a href="https://www.dropbox.com/s/yy8d8mz1yw1szqr/CalcWizard-7.1-Setup.exe?dl=1">here</a>.To download earlier versions, click <a href="http://al3xv3gas.github.io/cwd.html" >here</a>.</p>
-<h2>Install CalcWizard on Linux</h2>
+<!--<h2>Install CalcWizard on Linux</h2>
 <p>To install CalcWizard on your flavour of Linux, download the setup script and run it from terminal. Download the latest version <a href="https://www.dropbox.com/s/vneh04uohpb93oj/CalcWizard-SnowLeopard-Setup.sh?dl=1">here</a>.
 To download earlier versions, click <a href="http://al3xv3gas.github.io/cwd.html">here</a>.
 The setup script will be named something like this: CalcWizard-VersionCodename-Setup.sh.
 To run this script, type:</p>
 
 <p>sudo -i</p>
-<p>bash CalcWizard-VersionCodename-Setup.sh</p>
+<p>bash CalcWizard-VersionCodename-Setup.sh</p> -->
