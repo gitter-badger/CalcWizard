@@ -61,7 +61,7 @@ elif a == "Multiply!":
         print (str(float(o)) + (" x ") + str(float(j)) + (" = ") + str(float(o)*float(j)))
 		
 elif a == "about":
-    print("Developed by Alex Vegas. License: GNU GPL 2015 Apache v2.0. Source and further information: github.com/officialalexvegas/CalcWizard ")
+    print("Developed by AL3X V3GAS. License: GNU GPL 2016 v3.0. Source and further information: https://github.com/al3xv3gas/CalcWizard")
    
 else:
     print ("invalid input")
@@ -121,6 +121,6 @@ while a == "Calculate!" or a == "Convert!" or a == "Conjure!" or a == "Multiply!
         for j in range(1,int(w)):
             print (str(float(o)) + (" x ") + str(float(j)) + (" = ") + str(float(o)*float(j)))
     elif a == "about":
-        print ("Developed by Alex Vegas. License: GNU GPL 2015 Apache v2.0. Source and further information: github.com/officialalexvegas/CalcWizard ")
+        print ("Developed by AL3X V3GAS. License: GNU GPL 2016 v3.0. Source and further information: https://github.com/al3xv3gas/CalcWizard")
 
 print ("Thank you for using CalcWizard!")
