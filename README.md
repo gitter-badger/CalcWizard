@@ -15,3 +15,6 @@ To run this script, type:</p>
 
 <p>sudo -i</p>
 <p>bash CalcWizard-VersionCodename-Setup.sh</p> -->
+
+
+[![Join the chat at https://gitter.im/al3xv3gas/CalcWizard](https://badges.gitter.im/al3xv3gas/CalcWizard.svg)](https://gitter.im/al3xv3gas/CalcWizard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
